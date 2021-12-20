@@ -24,9 +24,14 @@ public class Test {
 		
 		FileUtils.copyFile(src,new File("C:\\Users\\User\\Desktop\\Java_class\\Testing\\Screenshot_capture\\facebooklogin.png"));
 		
-		
+		m();
 		                                                  
 		
 	}
+	
+	static public void m()
+	{	System.out.println("OLA");
+	}
+	
 
 }
