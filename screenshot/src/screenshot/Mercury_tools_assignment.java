@@ -31,7 +31,7 @@ public class Mercury_tools_assignment {
 		
 		FileUtils.copyFile(src, new File("C:\\Users\\User\\Desktop\\Java_class\\Testing\\Screenshot_capture\\.mercury_login.png"));
 		
-		
+		System.out.println("project finished");
 		
 	}
 
