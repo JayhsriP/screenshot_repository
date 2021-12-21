@@ -36,6 +36,7 @@ public class Test {
 	static public void m1()
 	{
 		System.out.println("This is m1 mthd");
+		System.out.println("Hi there");
 	}
 
 }
